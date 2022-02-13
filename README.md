@@ -27,7 +27,7 @@ why you might thing the results have improved/degraded from the previous experim
 
 
 # Output:
-          Reading The Dataset...
+          
 
           Training the Classifier...
           SVM Accuracy =  0.4
